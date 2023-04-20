@@ -1,1 +1,3 @@
-# Archivo
+# Archivo 
+Pasivoa
+Capital contable
